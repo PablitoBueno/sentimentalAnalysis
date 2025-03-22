@@ -111,15 +111,6 @@ Receives a list of products and their comments, performs sentiment analysis, and
 }
 ```
 
-## Project Structure
-
-```
-/
-|-- main.py  # Main file with API implementation
-|-- requirements.txt  # List of dependencies
-|-- README.md  # Detailed documentation
-```
-
 ## Possible Future Improvements
 - Support for languages other than English.
 - Implementation of caching to optimize API execution.
